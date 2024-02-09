@@ -1,0 +1,51 @@
+header{
+margin-bottom: 5px;
+border-bottom: 5px solid red;
+
+}
+#content{
+    width: auto;
+    height:max-content;
+    background-color: black; 
+    background-image:url(images\Screenshot 2023-12-18 190729.png) ; 
+}
+#container{
+width: auto;
+height: 70px;
+background-color: black;
+
+}
+#head-text{
+    width: 50%;
+    height:100%;
+   display: inline;
+    float: left;
+   
+}
+#nav{
+    width: 50%;
+    height:100%;
+    text-align: center;
+    float: right;
+    color: white;
+
+   margin-left:auto;
+    margin-right:auto;
+}
+#name{
+    text-align: center;
+  
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+}
+a{
+    color: white;
+    margin: 15px;
+ padding-top: 5%;
+    text-decoration: none;
+    font-size: larger;
+}
+hr{
+    
+    border-top: 5px solid red;
+}
